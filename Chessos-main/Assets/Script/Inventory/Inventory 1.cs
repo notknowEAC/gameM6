@@ -1,0 +1,51 @@
+﻿
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[CreateAssetMenu]
+public class Inventory1 : ScriptableObject {
+
+    public Item1 currentItem;
+    public List<Item1> items = new List<Item1>();
+    public int numberOfKeys;
+    public int coins;
+    public float maxMagic = 10;
+    public float currentMagic;
+
+    public void OnEnable()
+    {
+        currentMagic = maxMagic;
+    }
+
+    public void ReduceMagic(float magicCost)
+    {
+        currentMagic -= magicCost;
+    }
+
+    public bool CheckForItem(Item1 item)
+    { 
+        if(items.Contains(item))
+        {
+            return true;
+        }
+        return false;
+    }
+
+    public void AddItem(Item1 itemToAdd)
+    {
+        // Is the item a key?
+        if(itemToAdd.isKey)
+        {
+            numberOfKeys++;
+        }
+        else
+        {
+            if(!items.Contains(itemToAdd))
+            {
+                items.Add(itemToAdd);
+            }
+        }
+    }
+
+}

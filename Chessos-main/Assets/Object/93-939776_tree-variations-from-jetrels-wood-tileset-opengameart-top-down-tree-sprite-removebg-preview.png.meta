@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 432fb3375db1cc04a85aa360cb37af51
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 241
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05beb9579d29fa1448dd3c4641f41c16
+      internalID: -1967548439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 152
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df69f08877749c447abdf796b7a14fff
+      internalID: 1217036998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 36
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1245b6fe29c5e6b409b49832ef9905a8
+      internalID: -1516932807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 36
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1669b2c608501e042ada414a0f055d37
+      internalID: 336387935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 37
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2885b3e5235a6404ba3a3b9d727974ae
+      internalID: 1603084896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 35
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548c15f0d05d2624aae6a55e15c100cd
+      internalID: -1630087697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 237
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf168788d13d343928332ea3ce67fa
+      internalID: -734139982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 236
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f616bcc3cfd5d458d8cada5217208e
+      internalID: -1443495355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 236
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e785d37c5b1af92439a95fa71b16cfa6
+      internalID: -781957915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 237
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1005b3de75e9e4bbe2ac644ac46527
+      internalID: 780813943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 154
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe4d32247f45784bb1a1eec55eb2990
+      internalID: 719159221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 153
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55f46ea3a49c49499414d04af5ee3e5
+      internalID: 953807855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 152
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e57c09db8ffaf147b9a31a24aef9bb6
+      internalID: 1899195258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1950a8fe546396f408bcb8a397007ba2
+      internalID: 1472925601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 241
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd4cefe62b1f5438a86e056bab0684
+      internalID: 345683668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 239
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db290f329b55547a943f46318cc08c
+      internalID: -1726738252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_0: -1967548439
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_1: 1217036998
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_10: 719159221
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_11: 953807855
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_12: 1899195258
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_13: 1472925601
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_14: 345683668
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_15: -1726738252
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_2: -1516932807
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_3: 336387935
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_4: 1603084896
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_5: -1630087697
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_6: -734139982
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_7: -1443495355
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_8: -781957915
+      93-939776_tree-variations-from-jetrels-wood-tileset-opengameart-top-down-tree-sprite-removebg-preview_9: 780813943
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

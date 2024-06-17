@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c293eabe929daa749baa74ed9de9add7, type: 3}
+  m_Name: potion
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 99
+  <Name>k__BackingField: water
+  <Description>k__BackingField: This medicine causes HP to increase by 10%.
+  <ItemImage>k__BackingField: {fileID: -826124232, guid: 234d53e223da68540998d04a4b749636, type: 3}
+  modifiersData:
+  - statModifier: {fileID: 11400000, guid: fa11f5a00f26f1746b8af204bd0eb500, type: 2}
+    value: 10
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: 78ccf6fd3c6935c47bf1c8f6411683eb, type: 3}

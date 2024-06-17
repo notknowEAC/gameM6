@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Inventory.Model
+{
+    public class EquippableItemSO : ItemSO, IDestroyableItem
+    {
+        public string Action => "Equip";
+
+        public AudioClip actionSFX { get; private set; }
+
+        public bool PerformAction(GameObject character)
+        {
+            throw new System.NotImplementedException();
+        }
+    }
+}
